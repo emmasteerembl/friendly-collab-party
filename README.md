@@ -1,3 +1,9 @@
 # Friendly-Collab-Party
 
-Goal: To learn how to more efficiently work with collaborative documents in GoogleDocs. Understand and know how to use their full capacity
+## Description of project
+
+Hi! This is an introduction. A little more going into this paragraph.
+
+- Here is the start of a list
+- List item 2
+- List item 3
